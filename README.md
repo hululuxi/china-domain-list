@@ -1,6 +1,6 @@
 # China Domain List
 
-[https://raw.githubusercontent.com/carrnot/china-domain-list/release/domain.txt](https://raw.githubusercontent.com/carrnot/china-domain-list/release/domain.txt)
+[https://raw.githubusercontent.com/hululuxi/china-domain-list/release/china_domain.txt](https://raw.githubusercontent.com/hululuxi/china-domain-list/release/china_domain.txt)
 
 ## Credits
 
