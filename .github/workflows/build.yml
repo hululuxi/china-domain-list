@@ -32,7 +32,7 @@ jobs:
           cat accelerated-domains.china.raw.txt apple.china.raw.txt > all.txt
           
           # raw file
-          cp all.txt ../publish/domain.txt
+          cp all.txt ../publish/china_domain.txt
 
       - name: Git push assets to "release" branch
         run: |
